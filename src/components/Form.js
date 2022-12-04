@@ -18,7 +18,7 @@ function Form() {
       ...formData,
       [name]: value,
     });
-  }’
+  }
 
 function handleSubmit(event) {
   event.preventDefault();
